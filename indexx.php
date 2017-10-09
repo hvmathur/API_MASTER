@@ -1,7 +1,7 @@
 <?php
 $postUrl = 'http://login.getcatchit.com/api';    
 $datatopost = array (
-            "rcpt_to" => 'ffgf',
+            "rcpt_to" => 'ffgfgsdf',
             "to" => 'gdfhfh',
             "subject" => 'dgfdfh',
             "header" => 'sfgdh',
